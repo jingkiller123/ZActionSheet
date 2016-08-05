@@ -31,9 +31,9 @@
 }
 - (IBAction)toggleShowASBtn:(id)sender {
     
-//    [self originalTest];
+    [self originalTest];
     
-    [self customTest];
+//    [self customTest];
 }
 
 - (void)originalTest {
